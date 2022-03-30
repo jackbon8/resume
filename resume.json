@@ -1,1 +1,89 @@
-
+{
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "hidden": false
+  },
+  "profile": {
+    "name": "李媛媛",
+    "email": "549937062@qq.com",
+    "mobile": "13223410327",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "",
+    "positionTitle": "研发"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2010.09.01", "2014.06.30"],
+      "school": "天津工业大学",
+      "major": "材料科学与工程",
+      "academic_degree": "本科"
+    },
+    {
+      "edu_time": ["2014.09.01", "2017.03.30"],
+      "school": "天津工业大学",
+      "major": "材料科学与工程",
+      "academic_degree": "硕士"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "英语 CET6",
+      "award_time": ""
+    },
+    {
+      "award_info": "执业药师",
+      "award_time": ""
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "河北瑞诺医疗器械股份有限公司",
+      "department_name": "研发部",
+      "work_time": ["2017.06", null],
+      "work_desc": "三类免临床骨科植入产品负责人"
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "医疗器械行业生产注册等相关法规",
+      "skill_desc": "",
+      "skill_level": 89
+    },
+    {
+      "skill_name": "拉力万能实验设备",
+      "skill_desc": "检测数类产品性能并出具检测报告",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "idata、道客、知网数据源搜索",
+      "skill_desc": "",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "PPT WORD EXCEL",
+      "skill_desc": "",
+      "skill_level": 85
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "金属接骨螺钉",
+      "project_role": "产品负责人",
+      "project_time": "",
+      "project_desc": "一种金属接骨螺钉,包括带有螺帽螺纹的螺帽以及带有自攻螺纹的螺杆,螺帽上设有螺孔,其技术要点是:所述螺帽螺纹和自攻螺纹为连续螺纹,螺帽螺纹上或/和自攻螺纹底部设有豁口.其具有结构简单,使用方便,制造快捷等优点.",
+      "project_content": "1. 产品原材料 2. 加工设备 3. 生产工艺摸索 4.产品性能研究 5.产品送检 6. 体系建立"
+    },
+    {
+      "project_name": "空心接骨螺钉",
+      "project_role": "产品负责人",
+      "project_time": "",
+      "project_desc": "空心金属接骨螺钉是 用于四肢干骺端骨折内固定的一种螺钉。",
+      "project_content": "1. 产品原材料 2. 加工设备 3. 生产工艺摸索 4.产品性能研究 5.产品送检 6. 体系建立"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "做事认真负责，善于思考;头脑灵活，注重做事效率;个性稳重，思想成熟;出色的学习应用能力;待人热情大方，具有良好的交际能力;能吃苦耐劳，善于创新，有青春活力，有足够的工作热情!坚信“工作的人生最美丽”!"
+  }
+}
